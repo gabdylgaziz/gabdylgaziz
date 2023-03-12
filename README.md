@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Gabdylgaziz Zhagypar</h1>
 <h3 align="center">Second year KBTU student and web|android developer</h3>
 
