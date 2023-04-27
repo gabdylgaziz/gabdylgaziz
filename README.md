@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabdylgaziz Zhagypar</h1>
 <h3 align="center">Second year KBTU student and web|android developer</h3>
 
-- 🔭 I’m currently working on [Bookstore](https://github.com/gabdylgaziz/BookstoreGolang)
+- 🔭 I’m currently working on [Fantasy Football](https://github.com/gabdylgaziz/Fantasy-Football)
 
 - 🌱 I’m currently learning **Golang language**
 
