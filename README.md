@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fantasy Football](https://github.com/gabdylgaziz/Fantasy-Football)
 
-- 🌱 I’m currently learning **Golang language**
+- 🌱 I’m currently learning **AngularJS+Django stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabdylgaziz?tab=repositories](https://github.com/gabdylgaziz?tab=repositories)
 
